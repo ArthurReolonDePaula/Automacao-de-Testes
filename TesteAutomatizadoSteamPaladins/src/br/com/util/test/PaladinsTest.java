@@ -2,7 +2,6 @@ package br.com.util.test;
 
 import static org.junit.Assert.assertEquals;
 
-import org.apache.commons.exec.ExecuteException;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;

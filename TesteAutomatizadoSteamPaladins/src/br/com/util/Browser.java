@@ -26,7 +26,7 @@ public class Browser {
 	 * @return The firefox browser
 	 */
 	public WebDriver firefoxBrowsing() {
-		System.setProperty("webdriver.gecko.driver","C:\\Users\\tecnico\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver","C:\\Users\\ASUS\\geckodriver.exe");
 		WebDriver browser = new FirefoxDriver();
 	return browser;
 	}
